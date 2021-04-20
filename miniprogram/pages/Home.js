@@ -1,0 +1,1 @@
+Page({onLoad(){console.log("进来了")}});
